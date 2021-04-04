@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@babel/runtime": "7.12.13",
-    "simple-git": "2.34.2"
+    "simple-git": "2.37.0"
   },
   "devDependencies": {
     "@babel/cli": "7.12.13",
