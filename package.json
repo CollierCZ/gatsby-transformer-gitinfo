@@ -11,7 +11,7 @@
     "simple-git": "3.7.1"
   },
   "devDependencies": {
-    "@babel/cli": "7.17.6",
+    "@babel/cli": "7.17.10",
     "@babel/core": "7.17.9",
     "babel-preset-gatsby-package": "2.12.1",
     "cross-env": "7.0.3",
