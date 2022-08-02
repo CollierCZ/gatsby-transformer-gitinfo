@@ -7,7 +7,7 @@
     "url": "https://github.com/CollierCZ/gatsby-transformer-gitinfo/issues"
   },
   "dependencies": {
-    "@babel/runtime": "7.18.6",
+    "@babel/runtime": "7.18.9",
     "simple-git": "3.11.0"
   },
   "devDependencies": {
