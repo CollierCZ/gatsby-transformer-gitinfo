@@ -22,7 +22,7 @@ async function getLogWithRetry(gitRepo, node, retry = 2) {
     file: filePath,
     n: 1,
     format: {
-      date: `%ai`,
+      date: `%aI`,
       authorName: `%an`,
       authorEmail: "%ae",
     },

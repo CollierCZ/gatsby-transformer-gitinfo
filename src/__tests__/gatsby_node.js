@@ -138,7 +138,7 @@ describe(`Processing File nodes matching filter regex`, () => {
     expect(createNodeField).toHaveBeenCalledWith({
       node,
       name: `gitLogLatestDate`,
-      value: `2018-08-20 20:19:19 +0000`,
+      value: `2018-08-20T20:19:19+00:00`,
     });
   });
 
@@ -161,7 +161,7 @@ describe(`Processing File nodes matching filter regex`, () => {
     expect(createNodeField).toHaveBeenCalledWith({
       node,
       name: `gitLogLatestDate`,
-      value: `2018-08-20 21:19:19 +0000`,
+      value: `2018-08-20T21:19:19+00:00`,
     });
   });
 
@@ -184,7 +184,7 @@ describe(`Processing File nodes matching filter regex`, () => {
     expect(createNodeField).toHaveBeenCalledWith({
       node,
       name: `gitLogLatestDate`,
-      value: `2018-08-20 21:19:19 +0000`,
+      value: `2018-08-20T21:19:19+00:00`,
     });
   });
 
