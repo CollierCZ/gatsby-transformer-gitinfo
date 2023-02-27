@@ -15,7 +15,7 @@
     "@babel/core": "7.20.12",
     "babel-preset-gatsby-package": "3.7.0",
     "cross-env": "7.0.3",
-    "jest": "29.4.1"
+    "jest": "29.4.3"
   },
   "homepage": "https://github.com/CollierCZ/gatsby-transformer-gitinfo",
   "keywords": [
