@@ -32,7 +32,7 @@ module.exports = {
 }
 ```
 
-Where the _source folder_ `./src/data/` is a git versionned directory.
+Where the _source folder_ `./src/data/` is a git versioned directory.
 
 The plugin will add several fields to `File` nodes:
 `gitLogLatestAuthorName`, `gitLogLatestAuthorEmail`, and `gitLogLatestDate`.
