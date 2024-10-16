@@ -90,7 +90,7 @@ async function onCreateNode({ node, actions }, pluginOptions) {
   createNodeField({
     node,
     name: `gitLogLatestDate`,
-    value: log.latest.date,
+    value: log.latest.date.replace(/Z$/, "+00:00"),
   });
 }
 
