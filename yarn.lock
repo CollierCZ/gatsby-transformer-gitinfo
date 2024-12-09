@@ -1652,10 +1652,10 @@ babel-preset-current-node-syntax@^1.0.0:
     "@babel/plugin-syntax-optional-chaining" "^7.8.3"
     "@babel/plugin-syntax-top-level-await" "^7.8.3"
 
-babel-preset-gatsby-package@3.13.1:
-  version "3.13.1"
-  resolved "https://registry.yarnpkg.com/babel-preset-gatsby-package/-/babel-preset-gatsby-package-3.13.1.tgz#f800850ff7be1d76033912f2121c7cb2204e51e6"
-  integrity sha512-7TpUtcmxMem4gNr8V5nNG2s6n1QW266vpRkcgLbTNOhJJjdC/0pwhL1GqDwDpZGQuYs4U6yHatwJ4VFBEP4Lqg==
+babel-preset-gatsby-package@3.14.0:
+  version "3.14.0"
+  resolved "https://registry.yarnpkg.com/babel-preset-gatsby-package/-/babel-preset-gatsby-package-3.14.0.tgz#3c5e8f640f874be18e619671773942a0bd9517b8"
+  integrity sha512-6UGuGrY2frcZ55XUUutO79uLCze8gqBImRg+IgPzz0TMIWYVW3kdnFP9VfCDthXPV1bLytvP863WeDxnjViasQ==
   dependencies:
     "@babel/plugin-proposal-nullish-coalescing-operator" "^7.18.6"
     "@babel/plugin-proposal-optional-chaining" "^7.20.7"
